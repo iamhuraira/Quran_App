@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/activity_surah.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/content_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/custom_ayah_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/custom_list.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
