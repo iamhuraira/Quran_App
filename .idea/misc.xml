@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/activity_drawer_base.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/activity_surah.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/content_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/custom_ayah_list.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/custom_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/layout/main_drawer_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/Quran_App/app/src/main/res/menu/main_drawer_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

@@ -8,15 +8,15 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.example.quranmajeed.databinding.ActivityMainBinding;
+import com.example.quran_app.databinding.ActivityMainBinding;
 
 import java.io.IOException;
 import java.util.ArrayList;
 
 public class MainActivity extends DrawerBaseActivity {
 
-
     ActivityMainBinding activityMainBinding;
+
     DBHelper dbHelper;
     ArrayList<SurahData> surahNamesList;
 
